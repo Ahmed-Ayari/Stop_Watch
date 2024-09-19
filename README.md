@@ -17,7 +17,7 @@ This is a simple stopwatch web application built using HTML, CSS, and JavaScript
 - JavaScript
 
 ## How to Use
-1. Clone the repository: `git clone https://github.com/Sphynx6/Stop_Watch.git`
+1. Clone the repository: `git clone https://github.com/Ahmed-Ayari/Stop_Watch.git`
 2. Open `index.html` in your web browser.
 3. Use the buttons to control the stopwatch:
    - Click "Start" to begin the timer.
